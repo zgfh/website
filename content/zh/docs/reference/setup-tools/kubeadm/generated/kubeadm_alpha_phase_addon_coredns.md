@@ -1,7 +1,11 @@
 
 将 CoreDNS addon 安装到 Kubernetes 集群
 
+<!--
 ### Synopsis
+-->
+
+### 概要
 
 
 通过 API 服务器安装 CoreDNS addon 组件。 请注意尽管部署了 DNS 服务器，但是在 CNI 被安装之前，它不会被调度。 
