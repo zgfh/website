@@ -87,14 +87,14 @@ kubeadm alpha phase kubeconfig scheduler [flags]
       <td colspan="2">--apiserver-advertise-address string</td>
     </tr>
     <tr>
-      <td></td><td style="line-height: 130%; word-wrap: break-word;">可访问的 API 服务器 IP 地址</td>
+      <td></td><td style="line-height: 130%; word-wrap: break-word;">用来访问的 API 服务器 IP 地址</td>
     </tr>
 
     <tr>
       <td colspan="2">--apiserver-bind-port int32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;默认值： 6443</td>
     </tr>
     <tr>
-      <td></td><td style="line-height: 130%; word-wrap: break-word;">可访问的 API 服务器的端口</td>
+      <td></td><td style="line-height: 130%; word-wrap: break-word;">用来访问的 API 服务器的端口</td>
     </tr>
 
     <tr>
