@@ -227,7 +227,7 @@ EOF
 The output is similar to this:
 
 ```
-Error from server (Forbidden): error when creating "STDIN": pods "pause" is forbidden: unable to validate against any pod security policy: []
+pod/pause created
 ```
 
 **What happened?** Although the PodSecurityPolicy was created, neither the
